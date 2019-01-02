@@ -26,4 +26,4 @@ Run client
 
 `php app/message.php`
 
-that command will send random LOTR quotes to telegram channels *t.me/baradur_messenger*
+that command will send random LOTR quotes to telegram channels t.me/baradur_messenger
